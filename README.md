@@ -67,5 +67,5 @@ press digit 2 , will read data flash
 
 below is log message
 
-![image](https://github.com/released/RL78_F24_DataFlash/blob/main/log1.jpg)
+![image](https://github.com/released/RL78_F24_DataFlash/blob/main/log.jpg)
 
